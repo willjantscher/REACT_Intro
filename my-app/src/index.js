@@ -6,6 +6,7 @@ import './index.css';
 //to run
 //type cd my-app/src
 //npm start
+
 function Square(props) {
     return (
       <button className="square" onClick={props.onClick}>
